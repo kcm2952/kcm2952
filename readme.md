@@ -1,4 +1,4 @@
-<h1 style="text-align: center">성산 깃허브</h1>
+<center><h1>성산 깃허브</h1></center>
 
 <p style="text-align: center">
   웹개발 연습중인 인간<br />
